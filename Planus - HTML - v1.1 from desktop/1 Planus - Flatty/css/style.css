@@ -2344,3 +2344,60 @@ a:hover {
     background: transparent url('../img/arrow-right.png') no-repeat top left;
   }
 }
+
+
+
+
+
+
+/*this my edits and only applies to the special projects page.*/
+
+.superwrap {
+  background-color: #88D2DF;
+  height: 100%;
+  width: 100%;
+}
+.wrapper {
+    background-color: blue;
+    width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    padding: 150px 0 60px;
+}
+.rightbar{
+    background-color: red;
+    width: 35%;
+    height: 50%;
+    float: right;
+}
+.rightbar p{
+    text-align: left;
+}
+.words-container {
+    width: 90%;
+    height: 60%;
+    background-color: purple;
+    float: right;
+}
+.leftbar{
+    background-color: green;
+    width: 65%;
+    height: 50%;
+    float: left;
+    /* padding-right: 1em; */
+}
+.image-container {
+    width: 94%;
+    float: left;
+    background-color: yellow;
+    height:60%;
+}
+
+
+
+
+
+
+
+
